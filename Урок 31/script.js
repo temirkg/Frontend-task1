@@ -1,18 +1,4 @@
 
-
-
-function krug() {
-    let radius = Number(prompt('Введите радиус круга'));
-    let P = 3.14;
-    let result = 2 * P * radius;
-
-    if(result != 0) {
-        console.log(result)
-    }
-}
- 
-krug()
-
 // function comparison() {
 //     let a = Number(prompt('Введите число a'));
 //     let b = Number(prompt('Введите число b'));
@@ -30,6 +16,20 @@ krug()
 
 // }
 // comparison()
+
+function krug() {
+    let radius = Number(prompt('Введите радиус круга'));
+    let P = 3.14;
+    let result = 2 * P * radius;
+
+    if(result != 0) {
+        console.log(result)
+    }
+}
+ 
+krug()
+
+
 
 function stepen() {
     let num = Number(prompt('Введите любое число'));
