@@ -1,0 +1,25 @@
+body {
+  background: #d6eaf8;
+}
+.gradient-button {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  
+}
+
+#a {
+  background-color: rebeccapurple;
+}
+#b {
+  background-color: black;
+}
+#c {
+  background-color: blue;
+}
